@@ -8,7 +8,7 @@
     volumes:
       # Main visible folder in Filebrowser
       - type: bind
-        source: /data/coolify/applications/ywk444gow0k0sk4skks0gc
+        source: /data/coolify/applications
         target: /folder
         isDirectory: true
 
